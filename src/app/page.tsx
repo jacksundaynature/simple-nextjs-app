@@ -6,7 +6,7 @@ export default function Home() {
           Simple Next.js App
         </h1>
         <p className="text-lg text-zinc-600 dark:text-zinc-400">
-          Deployed on Cloudflare Pages
+          Deployed on Cloudflare Pages (develop)
         </p>
         <div className="rounded-lg border border-zinc-200 bg-white p-6 dark:border-zinc-800 dark:bg-zinc-900">
           <p className="text-sm text-zinc-500 dark:text-zinc-400">
